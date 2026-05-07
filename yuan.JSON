@@ -28,6 +28,20 @@
       "is_adult": false,
       "status": "available"
     },
+    "api_ukuapi_com": {
+      "name": "TV-U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi.com",
+      "is_adult": false,
+      "status": "available"
+    },
+    "api_ukuapi88_com": {
+      "name": "TV-U酷资源88",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://api.ukuapi88.com",
+      "is_adult": false,
+      "status": "available"
+    },
     "ikunzyapi_com": {
       "name": "TV-ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod",
@@ -126,6 +140,13 @@
       "is_adult": false,
       "status": "available"
     },
+    "m3u8_apiyhzy_com": {
+      "name": "TV-樱花资源",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "detail": "https://yhzy.cc",
+      "is_adult": false,
+      "status": "available"
+    },
     "seacms_org": {
       "name": "TV-海洋资源",
       "api": "https://www.seacms.org/api.php/provide/vod",
@@ -221,6 +242,13 @@
       "name": "ikun资源",
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "detail": "",
+      "is_adult": false,
+      "status": "available"
+    },
+    "vnzyz_com": {
+      "name": "vnzyz",
+      "api": "https://vnzyz.com/api.php/provide/vod",
+      "detail": "https://vnzyz.com",
       "is_adult": false,
       "status": "available"
     },
